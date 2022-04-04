@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BAWnuV3NAGEqnidVwnJmyIQUES5zy3H5Dzs96c8Gym3QiENFx84xt6nWTYDASWABbTvE3RlqiAYvDqinxxdBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexm\\Documents\\Skola\\Praktisk objektorienterad programmering\\Lab1\\Laboration1_GUI\\Laboration1_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\system.speech\\6.0.0\\system.speech.6.0.0.nupkg.sha512",
+    "C:\\Users\\alexm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
